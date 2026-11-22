@@ -2,7 +2,7 @@
 
 Cleaning a raw, real-world layoffs dataset with SQL, so it is ready for analysis. The original data is never modified: every change is made in a copy.
 
-**Author:** Dr. Abdulrahman Saad Abdulwahed Al Allawy  \|  [LinkedIn ](https://www.linkedin.com/in/abdulrahman-al-alallawy-06b8a7284/) \|  [GitHub](https://github.com/](https://github.com/mUmbra48)
+**Author:** Dr. Abdulrahman Saad Abdulwahed Al Allawy  \|  [LinkedIn ](https://www.linkedin.com/in/abdulrahman-al-alallawy-06b8a7284/) \|  [GitHub](https://github.com/](https://github.com/mUmbra48/)
 
 ## Overview
 
